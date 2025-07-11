@@ -16,25 +16,6 @@ A lightweight and customizable MVC (Model-View-Controller) framework built with 
 
 ---
 
-## 📂 Project Structure
-
-framework/
-├── app/
-│ ├── controllers/
-│ │ ├── Home.php
-│ │ ├── _404.php
-│ ├── core/
-│ │ ├── App.php
-│ │ ├── Controller.php
-│ │ ├── Model.php
-│ │ ├── Database.php
-│ ├── views/
-│ │ └── ...
-├── public/
-│ └── index.php
-├── config.php
-├── setup.php
-└── README.md
 
 
 ---
