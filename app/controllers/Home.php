@@ -3,7 +3,7 @@
 /**
  * Class Home
  *
- * The Home controller extends the base Controller and handles default routes.
+ * The Home calccontroller extends the base Controller and handles default routes.
  * It uses the Database and Model traits to perform database operations.
  */
 class Home extends Controller
